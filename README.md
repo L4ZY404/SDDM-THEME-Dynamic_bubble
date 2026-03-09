@@ -4,6 +4,7 @@ A sleek, modern, and highly interactive SDDM theme featuring **full Pywal integr
 ---
 ![Dynamic Bubble Preview](assets/01.png)
 ![Dynamic Bubble Preview](assets/02.png)
+![Dynamic Bubble Preview](assets/03.png)
 ---
 
 ## ✨ Features
