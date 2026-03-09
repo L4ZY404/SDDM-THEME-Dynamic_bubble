@@ -2,6 +2,8 @@ import QtQuick 2.15
 import SddmComponents 2.0
 import QtGraphicalEffects 1.15
 
+// By L4ZY404
+
 Rectangle {
     // --- LOCAL FONT LOADER ---
     // Loads the included Nerd Font to guarantee icons render correctly on any system
