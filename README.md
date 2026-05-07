@@ -1,4 +1,4 @@
-#Still work in progress!
+# Still work in progress!
 
 # 🫧 Dynamic Bubble SDDM Theme
 A sleek, modern, and highly interactive SDDM theme featuring **full Pywal integration**, smooth QML animations, and hardware-inspired status indicators.
