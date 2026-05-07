@@ -1,3 +1,5 @@
+#Still work in progress!
+
 # 🫧 Dynamic Bubble SDDM Theme
 A sleek, modern, and highly interactive SDDM theme featuring **full Pywal integration**, smooth QML animations, and hardware-inspired status indicators.
 
@@ -28,7 +30,14 @@ A sleek, modern, and highly interactive SDDM theme featuring **full Pywal integr
 Clone the repository and run the installer script:
 
 ```bash
-git clone [https://github.com/L4ZY404/dynamic-bubble-sddm.git](https://github.com/L4ZY404/dynamic-bubble-sddm.git)
-cd dynamic-bubble-sddm
+git clone https://github.com/L4ZY404/dynamic-bubble-sddm.git && cd dynamic-bubble-sddm
+```
+```bash
 chmod +x install.sh
+```
+```bash
 ./install.sh
+```
+
+## Note
+You must have and run pywal at least one time to get your wallpaper on cache
