@@ -30,7 +30,7 @@ A sleek, modern, and highly interactive SDDM theme featuring **full Pywal integr
 Clone the repository and run the installer script:
 
 ```bash
-git clone https://github.com/L4ZY404/dynamic-bubble-sddm.git && cd dynamic-bubble-sddm
+git clone https://github.com/L4ZY404/SDDM-THEME-Dynamic_bubble.git && cd dynamic-bubble-sddm
 ```
 ```bash
 chmod +x install.sh
