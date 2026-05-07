@@ -47,7 +47,7 @@ echo " Installation successful!"
 echo "-------------------------------------------------------"
 echo "Next steps:"
 echo "1. Set '$THEME_NAME' as your current theme in /etc/sddm.conf"
-echo "1.1. If /etc/sddm.conf does not exist run: sudo cp /usr/lib/sddm/sddm.conf.d/default.conf /etc/sddm.conf.d
+echo "1.1. If /etc/sddm.conf does not exist run: sudo cp /usr/lib/sddm/sddm.conf.d/default.conf /etc/sddm.conf
 echo "2. Run './sddm_sync.sh' to apply your Pywal colors."
 echo "3. Log out to see your new creation in action!"
 echo "-------------------------------------------------------"
