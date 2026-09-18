@@ -1,4 +1,17 @@
-.DS_Store
-Thumbs.db
+# Local test/runtime files
 *.log
-.cache/
+*.bak
+*.tmp
+*~
+
+# Generated archives
+*.tar.gz
+*.tgz
+*.zip
+
+# Editor metadata
+.vscode/
+.idea/
+
+# Local SDDM overrides used only while testing
+Dynamic_bubble/theme.conf.user

@@ -1,6 +1,13 @@
-[Desktop Entry]
-Name=Dynamic_bubble
-Comment=A glassmorphism bubble theme with Pywal support.
+[SddmGreeterTheme]
+Name=Dynamic Bubble
+Description=Responsive SDDM theme with Pywal integration and primary-monitor UI.
 Author=L4ZY404
-Version=1.0
+Website=https://github.com/L4ZY404/SDDM-THEME-Dynamic_bubble
+License=GPL-3.0-only
 Type=sddm-theme
+Version=2.0
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=Dynamic_bubble
+Theme-API=2.0
+QtVersion=6

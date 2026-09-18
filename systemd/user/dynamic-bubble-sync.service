@@ -1,0 +1,6 @@
+[Unit]
+Description=Synchronize Dynamic Bubble with Pywal
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/dynamic-bubble-sync --quiet

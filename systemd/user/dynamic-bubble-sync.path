@@ -1,0 +1,11 @@
+[Unit]
+Description=Watch Pywal cache for Dynamic Bubble
+
+[Path]
+PathChanged=%h/.cache/wal/colors
+PathChanged=%h/.cache/wal/colors.sh
+PathChanged=%h/.cache/wal/wal
+Unit=dynamic-bubble-sync.service
+
+[Install]
+WantedBy=default.target
