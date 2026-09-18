@@ -37,20 +37,6 @@ dynamic-bubble-sync
 
 HyprL4zy does not need to own or patch Dynamic Bubble internals.
 
-## Multi-monitor
-
-The login interface is shown only on SDDM's primary monitor. Other monitors use the current Pywal background color without duplicating the login bubble.
-
-To render the full theme on every monitor, change:
-
-```ini
-primaryOnly=false
-```
-
-in `/usr/share/sddm/themes/Dynamic_bubble/theme.conf`.
-
-SDDM exposes a separate view for each monitor and provides the `primaryScreen` context property to the theme, which Dynamic Bubble uses for this behavior.
-
 ## Testing
 
 ```bash
